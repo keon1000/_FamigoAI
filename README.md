@@ -13,6 +13,9 @@ Hansol Park, firstri@g.skku.edu
 Junwon Moon, mppn98@g.skku.edu    
 Chanwoo Park, cksdn1290@korea.ac.kr
 
+# How to install
+pls look up the uv.lock file 
+(use uv installer)
 
 ## how to run:
 
